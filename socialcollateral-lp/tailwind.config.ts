@@ -17,11 +17,11 @@ export default {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
-        background: "hsl(var(--background))",
+        background: "#f5f5f5",
         foreground: "hsl(var(--foreground))",
         primary: {
-          DEFAULT: "hsl(var(--primary))",
-          foreground: "hsl(var(--primary-foreground))",
+          DEFAULT: "#f5f5f5",
+          foreground: "f5f5f5" // nasi (putih) ,
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",

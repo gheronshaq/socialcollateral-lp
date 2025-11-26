@@ -6,7 +6,7 @@ import FooterAmanah from "@/components/FooterAmanah";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-primary">
       <NavbarAmanah />
       <main>
         <HeroAmanah />

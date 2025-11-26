@@ -33,7 +33,7 @@ const NavbarAmanah = () => {
             className="text-2xl font-bold bg-gradient-to-r from-[#4C1B6D] via-[#4A1B6D] to-[#CD2C58] bg-clip-text text-transparent hover:opacity-80 transition-opacity"
             style={{ fontFamily: "Inter, sans-serif", fontWeight: 700 }}
           >
-            jaringan amanah
+            Social Collateral
           </a>
 
           {/* Desktop Navigation */}

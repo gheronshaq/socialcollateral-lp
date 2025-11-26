@@ -48,7 +48,7 @@ const DemoSection = () => {
           )}
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-[hsl(var(--amanah-purple))] to-[hsl(var(--amanah-pink))] bg-clip-text text-transparent">
-            Coba Demo Interaktif
+            Demo Interactive
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
             Rasakan pengalaman langsung fitur-fitur kami

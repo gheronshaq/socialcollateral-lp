@@ -32,15 +32,13 @@ const HeroAmanah = () => {
             style={{ fontFamily: "Inter, sans-serif", fontWeight: 700 }}
           >
             <span className="bg-gradient-to-r from-amanah-purple via-amanah-purple to-amanah-pink bg-clip-text text-transparent">
-              Membangun Kepercayaan
+              Jaringan Amanah
             </span>
             <br />
-            <span className="text-foreground">Melalui Layanan Profesional</span>
+            <span className="text-foreground">Analisis Risiko Kredit Berjaringan</span>
           </h1>
           <p className="text-lg sm:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Jaringan Amanah hadir sebagai mitra terpercaya untuk mengembangkan
-            bisnis Anda dengan solusi teknologi modern dan layanan konsultasi
-            profesional.
+            AmanahAI adalah Social Graph Engine canggih yang dirancang khusus untuk memetakan dan menganalisis risiko kredit mikro secara objektif.
           </p>
         </div>
 
